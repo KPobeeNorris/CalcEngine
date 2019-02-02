@@ -85,7 +85,7 @@ public class CalculateHelper {
         sb.append(symbol);
         sb.append(' ');
         sb.append(rightVal);
-        sb.append('=');
+        sb.append(" = ");
         sb.append(result);
 
         return sb.toString();
