@@ -1,6 +1,6 @@
 package com.pluraslight.calcEngine;
 
-public enum MathCommand {
+enum MathCommand {
     Add,
     Subtract,
     Multiply,
