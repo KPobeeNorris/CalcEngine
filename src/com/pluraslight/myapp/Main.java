@@ -1,4 +1,4 @@
-package com.pluraslight.calcEngine;
+package com.pluraslight.myapp;
 
 public class Main {
 
@@ -48,7 +48,6 @@ public class Main {
         int rightInt = 4;
 
         MathEquation equationOverload = new MathEquation('d');
-
         equationOverload.execute(leftDouble, rightDouble);
         System.out.println("result ");
         System.out.println(equationOverload.getResult());
